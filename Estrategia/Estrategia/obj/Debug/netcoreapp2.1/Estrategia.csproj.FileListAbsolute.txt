@@ -1,0 +1,11 @@
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\bin\Debug\netcoreapp2.1\Estrategia.deps.json
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\bin\Debug\netcoreapp2.1\Estrategia.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\bin\Debug\netcoreapp2.1\Estrategia.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\bin\Debug\netcoreapp2.1\Estrategia.dll
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\bin\Debug\netcoreapp2.1\Estrategia.pdb
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\obj\Debug\netcoreapp2.1\Estrategia.csprojAssemblyReference.cache
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\obj\Debug\netcoreapp2.1\Estrategia.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\obj\Debug\netcoreapp2.1\Estrategia.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\obj\Debug\netcoreapp2.1\Estrategia.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\obj\Debug\netcoreapp2.1\Estrategia.dll
+C:\Users\rabi.aranda\source\repos\Estrategia\Estrategia\obj\Debug\netcoreapp2.1\Estrategia.pdb
